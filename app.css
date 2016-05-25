@@ -1,0 +1,21 @@
+article {
+    color:green;
+}
+* {
+    font-family: georgia;
+}
+h1 {
+    color:black;
+}
+.toolbar li {
+    display: inline;
+    border: 1px solid;
+}
+body, nav, h1, h2, aticle {
+        margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		vertical-align: baseline;
+	}
